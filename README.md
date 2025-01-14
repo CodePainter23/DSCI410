@@ -1,2 +1,2 @@
 # DSCI410
-Favorite food : Pasta
+Favorite food : Past
